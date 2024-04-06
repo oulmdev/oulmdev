@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm mohamed oulmouden</h1>
-<h3 align="center">A passionate frontend developer from morocco</h3>
 
 - 🌱 I’m currently learning **Flutter ,HTML , CSS, JS, DART**
 
-- 📫 How to reach me **oulmdev@gamil.com**
+- 📫 How to reach me **oulmdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
